@@ -1,0 +1,41 @@
+.header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  position: relative;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-start;
+}
+.name-logo {
+    font-weight: 600;
+}
+
+.navbar {
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: -0.05em;
+}
+  
+ul {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+.header__line {
+    border: 1px solid var(--break-line);
+    padding-top: 1.5em;
+    width: 1px;
+}
