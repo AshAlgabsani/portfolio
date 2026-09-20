@@ -23,7 +23,7 @@ This portfolio serves as a central place to highlight my work, document my learn
 
 ## Project Status
 
-🚧 Currently under development.
+Currently under development.
 
 New features and projects will be added as I continue learning and building.
 
